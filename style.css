@@ -54,7 +54,9 @@ body {
   li {
   padding: .7rem;
   }
-}
+ .push {
+  margin: 0;
+ }
 
 .push {
   margin-left: auto;
