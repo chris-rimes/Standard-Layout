@@ -48,11 +48,8 @@ body {
 @media only screen and (max-width: 600px) {
   .main-nav {
     display: flex;
-    font-size: 0.2em;
+    font-size: 0.5em;
     padding: 0;
-  }
-  li {
-  padding: .7rem;
   }
  .push {
   margin: 0;
