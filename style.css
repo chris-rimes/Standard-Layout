@@ -47,7 +47,6 @@ body {
 
 @media only screen and (max-width: 600px) {
   .main-nav {
-    display: flex;
     font-size: 0.5em;
     padding: 0;
   }
