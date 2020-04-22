@@ -51,6 +51,9 @@ body {
     font-size: 0.2em;
     padding: 0;
   }
+  li {
+  padding: .7rem;
+  }
 }
 
 .push {
