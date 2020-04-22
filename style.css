@@ -35,7 +35,6 @@ body {
 
 /* NAV */
 .sticky {
-  position: absolute;
   top: 0;
   width: 100%;
 }
@@ -48,6 +47,7 @@ body {
 
 @media only screen and (max-width: 600px) {
   .main-nav {
+    display: flex;
     font-size: 0.5;
     padding: 0;
   }
