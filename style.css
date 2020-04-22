@@ -53,6 +53,9 @@ body {
  .push {
   margin: 0;
  }
+ li {
+  padding: 1em;
+ }
 }
 
 .push {
